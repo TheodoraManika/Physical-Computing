@@ -1,7 +1,7 @@
 from picoed import *
 import time
 
-display.scroll(Start game)
+display.scroll("Start game")
 score = 0
 
 for y in range(7)
